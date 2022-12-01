@@ -1,6 +1,6 @@
 # ReactNativeTest
 
-Initializa React Native Expo project:
+Initialize React Native Expo project:
 
 CTRL + ñ for cmd in vs code 
 
