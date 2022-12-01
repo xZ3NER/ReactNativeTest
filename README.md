@@ -1,4 +1,4 @@
-# ReactNativeTest
+# EXPO CLI TEST
 
 Initialize React Native Expo project:<br />
 <br />
